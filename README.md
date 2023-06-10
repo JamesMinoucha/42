@@ -1,9 +1,4 @@
-# 42 App
-42 App is an application containing several features helping students at 42 school. It can be connected with modules created by the community. All the scripts are in python and are very easy.
+# 42 Terminal
+This is totally a reference to school 42. Finally this application is a very practical and modular terminal for developers. It is expected that they can be put on the taskbar and that newbie developers can create plugins to add functionality and commands.
 
-Supported languages :
-- Français
-* English (wip)
-+ Deutsch (wip)
-
-## Developer corners
+Completely open source and readable code!
