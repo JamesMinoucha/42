@@ -4,3 +4,4 @@ Le terminal 42 est une référence directe à l'école 42. Elle vous aidera sur 
 ## Prévus
 * Auto-update & auto-recovery
 * Plugins & sécurités
+* Shell v2
